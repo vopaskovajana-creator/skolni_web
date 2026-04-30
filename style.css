@@ -1,12 +1,11 @@
 body {
     margin: 0;
     font-family: 'Segoe UI', Arial, sans-serif;
-    background: #f5f7fa;
-    color: #333;
+    background: #ffffff;
 }
 
 nav {
-    background: linear-gradient(90deg, #0f172a, #1e293b);
+    background: linear-gradient(90deg, #ffc2cd, #ff93ac);
     padding: 15px 30px;
     display: flex;
     justify-content: space-between;
@@ -19,7 +18,7 @@ nav strong {
 }
 
 nav a {
-    color: #facea1;
+    color: #ff93ac;
     margin-left: 20px;
     text-decoration: none;
     font-weight: 500;
@@ -27,7 +26,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #38ebf8;
+    color: #fc3468;
 }
 
 .container {
@@ -83,8 +82,8 @@ p {
 }
 
 footer {
-    background: #0f172a;
-    color: #edaf71;
+    background: #ffc2cd;
+    color: #ffc2cd;
     text-align: center;
     padding: 20px;
     margin-top: 40px;
@@ -96,5 +95,5 @@ footer {
 
 .footer-section a:hover {
     transform: translateX(5px);
-    color: #f5902c;
+    color: #ffc2cd;
 }
