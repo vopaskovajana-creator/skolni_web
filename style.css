@@ -83,7 +83,7 @@ p {
 
 footer {
     background: #ffc2cd;
-    color: #ffc2cd;
+    color: #ffffff;
     text-align: center;
     padding: 20px;
     margin-top: 40px;
@@ -95,5 +95,5 @@ footer {
 
 .footer-section a:hover {
     transform: translateX(5px);
-    color: #ffc2cd;
+    color: #ffffff;
 }
