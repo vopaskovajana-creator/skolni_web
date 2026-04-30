@@ -18,7 +18,7 @@ nav strong {
 }
 
 nav a {
-    color: #ff93ac;
+    color: #ffffff;
     margin-left: 20px;
     text-decoration: none;
     font-weight: 500;
@@ -26,7 +26,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #fc3468;
+    color: #ffffff;
 }
 
 .container {
